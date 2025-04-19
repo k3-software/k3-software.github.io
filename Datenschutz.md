@@ -239,6 +239,6 @@ In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutz
 - **Point of Interest (POI) / Eintrag:** sind punkthafte Geoobjekte, die für den Nutzer der App eine Bedeutung haben und in der Karte an bestimmten, freiwählbaren Geopunkten angelegt werden können. Jeder POI bzw. Eintrag hat eindeutige Koordinaten.
 
 ---
-[Impressum](Impressum.md)
-[Datenschutz](Datenschutz.md)
+[Impressum](Impressum.md) * 
+[Datenschutz](Datenschutz.md) * 
 [Nutzungsbedingungen](Nutzungsbedingungen.md)
