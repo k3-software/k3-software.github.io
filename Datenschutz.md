@@ -27,12 +27,10 @@ Mit dem Herunterladen unserer Applikation aus dem Appstore oder Android Market h
 13. Begriffsdefinitionen
 
 ## 2 Verantwortlicher
-K3Software GbR
-
+K3Software GbR  
 Andreas Knupfer, Sebastian Knupfer, Raphael Knupfer  
 Beundehöfer Straße 12  
 63549 Ronneburg  
-
 E-Mail-Adresse: contact@tramory.eu
 
 ## 3 Übersicht der Verarbeitungen
@@ -143,7 +141,7 @@ Damit Google Maps ihren Dienst vollständig anbieten kann, muss das Unternehmen 
 
 ### Wie lange und wo werden die Daten gespeichert?
 
-Die Google-Server stehen in Rechenzentren auf der ganzen Welt. Die meisten Server befinden sich allerdings in Amerika. Aus diesem Grund werden Ihre Daten auch vermehrt in den USA gespeichert. Hier können Sie genau nachlesen wo sich die Google-Rechenzentren befinden: https://www.google.com/abo ut/datacenters/locations/?hl=de
+Die Google-Server stehen in Rechenzentren auf der ganzen Welt. Die meisten Server befinden sich allerdings in Amerika. Aus diesem Grund werden Ihre Daten auch vermehrt in den USA gespeichert. Hier können Sie genau nachlesen wo sich die Google-Rechenzentren befinden: https://www.google.com/about/datacenters/locations/?hl=de
 
 Die Daten verteilt Google auf verschiedenen Datenträgern. Dadurch sind die Daten schneller abrufbar und werden vor etwaigen Manipulationsversuchen besser geschützt. Jedes Rechenzentrum hat auch spezielle Notfallprogramme. Wenn es zum Beispiel Probleme bei der Google-Hardware gibt oder eine Naturkatastrophe die Server lahm legt, bleiben die Daten ziemlich sicher trotzdem geschützt.
 
