@@ -2,7 +2,7 @@
 ## Angaben gemäß § 5 TMG
 K3Software GbR  
 Beundehöfer Straße 12  
-63549 Ronneburg
+63549 Ronneburg  
 Deutschland  
 
 ## Vertreten durch:
