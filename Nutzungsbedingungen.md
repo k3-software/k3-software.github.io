@@ -9,7 +9,8 @@ Wichtig: bitte lesen Sie die Nutzungsbedingungen sorgfältig durch, bevor Sie di
 ## 2 Anbieter und Geltungsbereich
 (1) Ersteller der App und daher Vertragspartner der Nutzer dieser App ist die K3 Software GbR (im Folgenden: Anbieter).
 
-K3 Software GbR, Andreas Knupfer, Sebastian Knupfer, Raphael Knupfer  
+K3Software GbR  
+Andreas Knupfer, Sebastian Knupfer, Raphael Knupfer  
 Beundehöfer Straße 12  
 63549 Ronneburg  
 Deutschland  
