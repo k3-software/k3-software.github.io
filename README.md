@@ -7,6 +7,7 @@ Kontaktemail: contact@tramory.eu
 
 Unser aktuelles Projekt: [Tramory](https://k3-software.github.io/tramory.github.io/)
 
-[Impressum](Impressum.md)
-[Datenschutz](Datenschutz.md)
+---
+[Impressum](Impressum.md) * 
+[Datenschutz](Datenschutz.md) * 
 [Nutzungsbedingungen](Nutzungsbedingungen.md)
