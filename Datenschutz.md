@@ -31,6 +31,7 @@ K3Software GbR
 Andreas Knupfer, Sebastian Knupfer, Raphael Knupfer  
 Beundehöfer Straße 12  
 63549 Ronneburg  
+Deutschland  
 E-Mail-Adresse: contact@tramory.eu
 
 ## 3 Übersicht der Verarbeitungen
