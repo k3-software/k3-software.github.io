@@ -1,4 +1,4 @@
-# K3 Software
+# K3Software GbR
 
 Wir sind ein kleines Team von App-Entwicklern und setzen unsere eigenen Ideen um.
 
