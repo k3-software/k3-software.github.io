@@ -1,241 +1,60 @@
-# Datenschutzerklärung
-## 1 Einleitung
-Stand: 30. Oktober 2022
+<h1>Datenschutz&shy;erkl&auml;rung</h1>
 
-Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen.
+<h2>1. Datenschutz auf einen Blick</h2>
 
-Wir haben diese Datenschutzerklärung verfasst, um Ihnen gemäß der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/679 und anwendbaren nationalen Gesetzen zu erklären, welche personenbezogenen Daten (kurz Daten) wir als Verantwortliche – und die von uns beauftragten Auftragsverarbeiter (z. B. Provider) – verarbeiten, zukünftig verarbeiten werden und welche rechtmäßigen Möglichkeiten Sie haben. Die verwendeten Begriffe sind geschlechtsneutral zu verstehen.
+<h3>Allgemeine Hinweise</h3> <p>Die folgenden Hinweise geben einen einfachen &Uuml;berblick dar&uuml;ber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie pers&ouml;nlich identifiziert werden k&ouml;nnen. Ausf&uuml;hrliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgef&uuml;hrten Datenschutzerkl&auml;rung.</p>
 
-Für unsere mobile App, verfügbar über den Google Play Store und den Appstore von Apple, gelten die folgenden gesonderten Datenschutzbestimmungen.
+<h3>Datenerfassung auf dieser Website</h3> <h4>Wer ist verantwortlich f&uuml;r die Datenerfassung auf dieser Website?</h4> <p>Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten k&ouml;nnen Sie dem Abschnitt &bdquo;Hinweis zur Verantwortlichen Stelle&ldquo; in dieser Datenschutzerkl&auml;rung entnehmen.</p> <h4>Wie erfassen wir Ihre Daten?</h4> <p>Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.&nbsp;B. um Daten handeln, die Sie in ein Kontaktformular eingeben.</p> <p>Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.&nbsp;B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.</p> <h4>Wof&uuml;r nutzen wir Ihre Daten?</h4> <p>Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gew&auml;hrleisten. Andere Daten k&ouml;nnen zur Analyse Ihres Nutzerverhaltens verwendet werden. Sofern &uuml;ber die Website Vertr&auml;ge geschlossen oder angebahnt werden k&ouml;nnen, werden die &uuml;bermittelten Daten auch f&uuml;r Vertragsangebote, Bestellungen oder sonstige Auftragsanfragen verarbeitet.</p> <h4>Welche Rechte haben Sie bez&uuml;glich Ihrer Daten?</h4> <p>Sie haben jederzeit das Recht, unentgeltlich Auskunft &uuml;ber Herkunft, Empf&auml;nger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben au&szlig;erdem ein Recht, die Berichtigung oder L&ouml;schung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, k&ouml;nnen Sie diese Einwilligung jederzeit f&uuml;r die Zukunft widerrufen. Au&szlig;erdem haben Sie das Recht, unter bestimmten Umst&auml;nden die Einschr&auml;nkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zust&auml;ndigen Aufsichtsbeh&ouml;rde zu.</p> <p>Hierzu sowie zu weiteren Fragen zum Thema Datenschutz k&ouml;nnen Sie sich jederzeit an uns wenden.</p>
 
-Mit dem Herunterladen unserer Applikation aus dem Appstore oder Android Market haben Sie sich gegenüber dem jeweiligen Appstore z.B. über Ihre Apple ID legitimiert. Die Datenschutzrichtlinien von Apple und Google entsprechen derzeit nicht vollständig den Anforderungen der Europäischen Datenschutzgrundverordnung (DS-GVO). Eine mit der Europäischen Datenschutzgrundverordnung nicht im Einklang stehende Verwendung der im Zusammenhang mit dem Download oder der Nutzung der Applikationen erhobenen Daten durch Apple oder Google kann unsererseits daher nicht ausgeschlossen werden. Wir haben darauf keinen Einfluss. Eine Weitergabe von Daten durch uns an Apple oder Google erfolgt jedoch nicht.
+<h2>2. Hosting</h2>
 
-## Inhaltsübersicht
+<p>Wir hosten die Inhalte unserer Website bei folgendem Anbieter:</p>
 
-1. Einleitung
-2. Verantwortlicher
-3. Übersicht der Verarbeitungen
-4. Maßgebliche Rechtsgrundlagen
-5. Übermittlung von personenbezogenen Daten
-6. Datenverarbeitung in Drittländern
-7. Löschung von Daten
-8. Einsatz von Cookies
-9. Newsletter und elektronische Benachrichtigungen
-10. Technische Dienstleister
-11. Änderung und Aktualisierung der Datenschutzerklärung
-12. Rechte der betroffenen Personen
-13. Begriffsdefinitionen
+<h3>Externes Hosting</h3> <p>Diese Website wird extern gehostet. Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters / der Hoster gespeichert. Hierbei kann es sich v.&nbsp;a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die &uuml;ber eine Website generiert werden, handeln.</p> <p>Das externe Hosting erfolgt zum Zwecke der Vertragserf&uuml;llung gegen&uuml;ber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO). Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschlie&szlig;lich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und &sect; 25 Abs. 1 TDDDG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endger&auml;t des Nutzers (z.&nbsp;B. Device-Fingerprinting) im Sinne des TDDDG umfasst. Die Einwilligung ist jederzeit widerrufbar.</p> <p>Unser(e) Hoster wird bzw. werden Ihre Daten nur insoweit verarbeiten, wie dies zur Erf&uuml;llung seiner Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen.</p> <p>Wir setzen folgende(n) Hoster ein:</p>
 
-## 2 Verantwortlicher
-K3Software GbR  
-Andreas Knupfer, Sebastian Knupfer, Raphael Knupfer  
-Beundehöfer Straße 12  
-63549 Ronneburg  
-Deutschland  
-E-Mail-Adresse: contact@tramory.eu
+<p>Github</p>
 
-## 3 Übersicht der Verarbeitungen
-Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
+<h2>3. Allgemeine Hinweise und Pflicht&shy;informationen</h2>
 
-### Arten der verarbeiteten Daten
+<h3>Datenschutz</h3>
+<p>Die Betreiber dieser Seiten nehmen den Schutz Ihrer pers&ouml;nlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerkl&auml;rung.</p> <p>Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie pers&ouml;nlich identifiziert werden k&ouml;nnen. Die vorliegende Datenschutzerkl&auml;rung erl&auml;utert, welche Daten wir erheben und wof&uuml;r wir sie nutzen. Sie erl&auml;utert auch, wie und zu welchem Zweck das geschieht.</p>
+<p>Wir weisen darauf hin, dass die Daten&uuml;bertragung im Internet (z.&nbsp;B. bei der Kommunikation per E-Mail) Sicherheitsl&uuml;cken aufweisen kann. Ein l&uuml;ckenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht m&ouml;glich.</p>
 
-- Bestandsdaten,
-- Kontaktdaten,
-- Meta-/Kommunikationsdaten.
+<h3>Hinweis zur verantwortlichen Stelle</h3>
+<p>Die verantwortliche Stelle f&uuml;r die Datenverarbeitung auf dieser Website ist:</p>
+<p>K3S GbR<br />
+Andreas Knupfer<br />
+Telefon: 01523/6829941<br />
+E-Mail: contact@tramory.eu</p>
 
-### Kategorien betroffener Personen
+ <p>Verantwortliche Stelle ist die nat&uuml;rliche oder juristische Person, die allein oder gemeinsam mit anderen &uuml;ber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen, E-Mail-Adressen o. &Auml;.) entscheidet.</p>
 
-- Nutzer der Anwendung (App) und Kommunikationspartner.
 
-### Zwecke der Verarbeitung
 
-- Kommunikation zur Anwendung und deren Nutzung.
+<h3>Speicherdauer</h3> <p>Soweit innerhalb dieser Datenschutzerkl&auml;rung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck f&uuml;r die Datenverarbeitung entf&auml;llt. Wenn Sie ein berechtigtes L&ouml;schersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gel&ouml;scht, sofern wir keine anderen rechtlich zul&auml;ssigen Gr&uuml;nde f&uuml;r die Speicherung Ihrer personenbezogenen Daten haben (z.&nbsp;B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im letztgenannten Fall erfolgt die L&ouml;schung nach Fortfall dieser Gr&uuml;nde.</p>
 
-## 4 Maßgebliche Rechtsgrundlagen
-Im Folgenden erhalten Sie eine Übersicht der Rechtsgrundlagen der DSGVO, auf deren Basis wir personenbezogene Daten verarbeiten. Bitte nehmen Sie zur Kenntnis, dass neben den Regelungen der DSGVO nationale Datenschutzvorgaben in Ihrem bzw. unserem Wohn- oder Sitzland gelten können. Sollten ferner im Einzelfall speziellere Rechtsgrundlagen maßgeblich sein, teilen wir Ihnen diese in der Datenschutzerklärung mit.
+<h3>Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website</h3> <p>Sofern Sie in die Datenverarbeitung eingewilligt haben, verarbeiten wir Ihre personenbezogenen Daten auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO, sofern besondere Datenkategorien nach Art. 9 Abs. 1 DSGVO verarbeitet werden. Im Falle einer ausdr&uuml;cklichen Einwilligung in die &Uuml;bertragung personenbezogener Daten in Drittstaaten erfolgt die Datenverarbeitung au&szlig;erdem auf Grundlage von Art. 49 Abs. 1 lit. a DSGVO. Sofern Sie in die Speicherung von Cookies oder in den Zugriff auf Informationen in Ihr Endger&auml;t (z.&nbsp;B. via Device-Fingerprinting) eingewilligt haben, erfolgt die Datenverarbeitung zus&auml;tzlich auf Grundlage von &sect; 25 Abs. 1 TDDDG. Die Einwilligung ist jederzeit widerrufbar. Sind Ihre Daten zur Vertragserf&uuml;llung oder zur Durchf&uuml;hrung vorvertraglicher Ma&szlig;nahmen erforderlich, verarbeiten wir Ihre Daten auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO. Des Weiteren verarbeiten wir Ihre Daten, sofern diese zur Erf&uuml;llung einer rechtlichen Verpflichtung erforderlich sind auf Grundlage von Art. 6 Abs. 1 lit. c DSGVO. Die Datenverarbeitung kann ferner auf Grundlage unseres berechtigten Interesses nach Art. 6 Abs. 1 lit. f DSGVO erfolgen. &Uuml;ber die jeweils im Einzelfall einschl&auml;gigen Rechtsgrundlagen wird in den folgenden Abs&auml;tzen dieser Datenschutzerkl&auml;rung informiert.</p>
 
-- Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO) - Die betroffene Person hat ihre Einwilligung in die Verarbeitung der sie betreffenden personenbezogenen Daten für einen spezifischen Zweck oder mehrere bestimmte Zwecke gegeben.
-Zusätzlich zu den Datenschutzregelungen der Datenschutz-Grundverordnung gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehört insbesondere das Gesetz zum Schutz vor Missbrauch personenbezogener Daten bei der Datenverarbeitung (Bundesdatenschutzgesetz – BDSG). Das BDSG enthält insbesondere Spezialregelungen zum Recht auf Auskunft, zum Recht auf Löschung, zum Widerspruchsrecht, zur Verarbeitung besonderer Kategorien personenbezogener Daten, zur Verarbeitung für andere Zwecke und zur Übermittlung sowie automatisierten Entscheidungsfindung im Einzelfall einschließlich Profiling. Des Weiteren regelt es die Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses (§ 26 BDSG), insbesondere im Hinblick auf die Begründung, Durchführung oder Beendigung von Beschäftigungsverhältnissen sowie die Einwilligung von Beschäftigten. Ferner können Landesdatenschutzgesetze der einzelnen Bundesländer zur Anwendung gelangen.
+<h3>Empf&auml;nger von personenbezogenen Daten</h3> <p>Im Rahmen unserer Gesch&auml;ftst&auml;tigkeit arbeiten wir mit verschiedenen externen Stellen zusammen. Dabei ist teilweise auch eine &Uuml;bermittlung von personenbezogenen Daten an diese externen Stellen erforderlich. Wir geben personenbezogene Daten nur dann an externe Stellen weiter, wenn dies im Rahmen einer Vertragserf&uuml;llung erforderlich ist, wenn wir gesetzlich hierzu verpflichtet sind (z.&nbsp;B. Weitergabe von Daten an Steuerbeh&ouml;rden), wenn wir ein berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO an der Weitergabe haben oder wenn eine sonstige Rechtsgrundlage die Datenweitergabe erlaubt. Beim Einsatz von Auftragsverarbeitern geben wir personenbezogene Daten unserer Kunden nur auf Grundlage eines g&uuml;ltigen Vertrags &uuml;ber Auftragsverarbeitung weiter. Im Falle einer gemeinsamen Verarbeitung wird ein Vertrag &uuml;ber gemeinsame Verarbeitung geschlossen.</p>
 
-## 5 Übermittlung von personenbezogenen Daten
-Im Rahmen unserer Verarbeitung von personenbezogenen Daten kommt es vor, dass die Daten an andere Stellen, Unternehmen, rechtlich selbstständige Organisationseinheiten oder Personen übermittelt oder sie ihnen gegenüber offengelegt werden. Zu den Empfängern dieser Daten können z.B. mit IT-Aufgaben beauftragte Dienstleister oder Anbieter von Diensten und Inhalten, die in eine Webseite eingebunden werden, gehören. In solchen Fall beachten wir die gesetzlichen Vorgaben und schließen insbesondere entsprechende Verträge bzw. Vereinbarungen, die dem Schutz Ihrer Daten dienen, mit den Empfängern Ihrer Daten ab.
+<h3>Widerruf Ihrer Einwilligung zur Datenverarbeitung</h3> <p>Viele Datenverarbeitungsvorg&auml;nge sind nur mit Ihrer ausdr&uuml;cklichen Einwilligung m&ouml;glich. Sie k&ouml;nnen eine bereits erteilte Einwilligung jederzeit widerrufen. Die Rechtm&auml;&szlig;igkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unber&uuml;hrt.</p>
 
-Wir weisen ausdrücklich darauf hin, dass bei der Anwendung der Export-Funktion wir keine Verantwortung oder Haftung jeglicher Art übernehmen für die darauffolgende Verarbeitung der exportierten Daten in anderen Datenverarbeitungssystemen. Für die ordnungsgemäße Verarbeitung der exportierten und übertragenen Daten übernimmt der Nutzer, der die Export-Funktion anwendet, die alleinige Verantwortung.
+<h3>Widerspruchsrecht gegen die Datenerhebung in besonderen F&auml;llen sowie gegen Direktwerbung (Art. 21 DSGVO)</h3> <p>WENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO ERFOLGT, HABEN SIE JEDERZEIT DAS RECHT, AUS GR&Uuml;NDEN, DIE SICH AUS IHRER BESONDEREN SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN WIDERSPRUCH EINZULEGEN; DIES GILT AUCH F&Uuml;R EIN AUF DIESE BESTIMMUNGEN GEST&Uuml;TZTES PROFILING. DIE JEWEILIGE RECHTSGRUNDLAGE, AUF DENEN EINE VERARBEITUNG BERUHT, ENTNEHMEN SIE DIESER DATENSCHUTZERKL&Auml;RUNG. WENN SIE WIDERSPRUCH EINLEGEN, WERDEN WIR IHRE BETROFFENEN PERSONENBEZOGENEN DATEN NICHT MEHR VERARBEITEN, ES SEI DENN, WIR K&Ouml;NNEN ZWINGENDE SCHUTZW&Uuml;RDIGE GR&Uuml;NDE F&Uuml;R DIE VERARBEITUNG NACHWEISEN, DIE IHRE INTERESSEN, RECHTE UND FREIHEITEN &Uuml;BERWIEGEN ODER DIE VERARBEITUNG DIENT DER GELTENDMACHUNG, AUS&Uuml;BUNG ODER VERTEIDIGUNG VON RECHTSANSPR&Uuml;CHEN (WIDERSPRUCH NACH ART. 21 ABS. 1 DSGVO).</p> <p>WERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN, SO HABEN SIE DAS RECHT, JEDERZEIT WIDERSPRUCH GEGEN DIE VERARBEITUNG SIE BETREFFENDER PERSONENBEZOGENER DATEN ZUM ZWECKE DERARTIGER WERBUNG EINZULEGEN; DIES GILT AUCH F&Uuml;R DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBUNG IN VERBINDUNG STEHT. WENN SIE WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET (WIDERSPRUCH NACH ART. 21 ABS. 2 DSGVO).</p>
 
-## 6 Datenverarbeitung in Drittländern
-Sofern wir Daten in einem Drittland (d.h., außerhalb der Europäischen Union (EU), des Europäischen Wirtschaftsraums (EWR)) verarbeiten oder die Verarbeitung im Rahmen der Inanspruchnahme von Diensten Dritter oder der Offenlegung bzw. Übermittlung von Daten an andere Personen, Stellen oder Unternehmen stattfindet, erfolgt dies nur im Einklang mit den gesetzlichen Vorgaben.
+<h3>Beschwerde&shy;recht bei der zust&auml;ndigen Aufsichts&shy;beh&ouml;rde</h3> <p>Im Falle von Verst&ouml;&szlig;en gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer Aufsichtsbeh&ouml;rde, insbesondere in dem Mitgliedstaat ihres gew&ouml;hnlichen Aufenthalts, ihres Arbeitsplatzes oder des Orts des mutma&szlig;lichen Versto&szlig;es zu. Das Beschwerderecht besteht unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.</p>
 
-Vorbehaltlich ausdrücklicher Einwilligung oder vertraglich oder gesetzlich erforderlicher Übermittlung verarbeiten oder lassen wir die Daten nur in Drittländern mit einem anerkannten Datenschutzniveau, vertraglichen Verpflichtung durch sogenannte Standardschutzklauseln der EU-Kommission, beim Vorliegen von Zertifizierungen oder verbindlicher internen Datenschutzvorschriften verarbeiten (Art. 44 bis 49 DSGVO, Informationsseite der EU- Kommission: https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection_de
+<h3>Recht auf Daten&shy;&uuml;bertrag&shy;barkeit</h3> <p>Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erf&uuml;llung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem g&auml;ngigen, maschinenlesbaren Format aush&auml;ndigen zu lassen. Sofern Sie die direkte &Uuml;bertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.</p>
 
-## 7 Löschung von Daten
-Die von uns verarbeiteten Daten werden nach Maßgabe der gesetzlichen Vorgaben gelöscht, sobald deren zur Verarbeitung erlaubten Einwilligungen widerrufen werden oder sonstige Erlaubnisse entfallen (z.B. wenn der Zweck der Verarbeitung dieser Daten entfallen ist oder sie für den Zweck nicht erforderlich sind). Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich zulässige Zwecke erforderlich sind, wird deren Verarbeitung auf diese Zwecke beschränkt. D.h., die Daten werden gesperrt und nicht für andere Zwecke verarbeitet. Das gilt z.B. für Daten, die aus handels- oder steuerrechtlichen Gründen aufbewahrt werden müssen oder deren Speicherung zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person erforderlich ist.
+<h3>Auskunft, Berichtigung und L&ouml;schung</h3> <p>Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft &uuml;ber Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empf&auml;nger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder L&ouml;schung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten k&ouml;nnen Sie sich jederzeit an uns wenden.</p>
 
-Unsere Datenschutzhinweise können ferner weitere Angaben zu der Aufbewahrung und Löschung von Daten beinhalten, die für die jeweiligen Verarbeitungen vorrangig gelten.
+<h3>Recht auf Einschr&auml;nkung der Verarbeitung</h3> <p>Sie haben das Recht, die Einschr&auml;nkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Hierzu k&ouml;nnen Sie sich jederzeit an uns wenden. Das Recht auf Einschr&auml;nkung der Verarbeitung besteht in folgenden F&auml;llen:</p> <ul> <li>Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, ben&ouml;tigen wir in der Regel Zeit, um dies zu &uuml;berpr&uuml;fen. F&uuml;r die Dauer der Pr&uuml;fung haben Sie das Recht, die Einschr&auml;nkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.</li> <li>Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtm&auml;&szlig;ig geschah/geschieht, k&ouml;nnen Sie statt der L&ouml;schung die Einschr&auml;nkung der Datenverarbeitung verlangen.</li> <li>Wenn wir Ihre personenbezogenen Daten nicht mehr ben&ouml;tigen, Sie sie jedoch zur Aus&uuml;bung, Verteidigung oder Geltendmachung von Rechtsanspr&uuml;chen ben&ouml;tigen, haben Sie das Recht, statt der L&ouml;schung die Einschr&auml;nkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.</li> <li>Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abw&auml;gung zwischen Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen &uuml;berwiegen, haben Sie das Recht, die Einschr&auml;nkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.</li> </ul> <p>Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschr&auml;nkt haben, d&uuml;rfen diese Daten &ndash; von ihrer Speicherung abgesehen &ndash; nur mit Ihrer Einwilligung oder zur Geltendmachung, Aus&uuml;bung oder Verteidigung von Rechtsanspr&uuml;chen oder zum Schutz der Rechte einer anderen nat&uuml;rlichen oder juristischen Person oder aus Gr&uuml;nden eines wichtigen &ouml;ffentlichen Interesses der Europ&auml;ischen Union oder eines Mitgliedstaats verarbeitet werden.</p>
 
-### Hinweis zu App-Berechtigungen
+<h2>4. Datenerfassung auf dieser Website</h2>
 
-Beim Download und der Installation unserer App werden bestimmte Berechtigungen und Zugriffe auf Ihr Smartphone angefordert. Diese dienen ausschließlich der Funktionsfähigkeit unserer App. Ein Kamera-Zugriff wird beispielsweise für die Funktion benötigt, wenn Sie Fotos an bestimmte Points of Interest / Einträge anhängen wollen. Der Standort wird z. B. beim Start der App benötigt.
+<h3>Anfrage per E-Mail, Telefon oder Telefax</h3> <p>Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.</p> <p>Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erf&uuml;llung eines Vertrags zusammenh&auml;ngt oder zur Durchf&uuml;hrung vorvertraglicher Ma&szlig;nahmen erforderlich ist. In allen &uuml;brigen F&auml;llen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde; die Einwilligung ist jederzeit widerrufbar.</p> <p>Die von Ihnen an uns per Kontaktanfragen &uuml;bersandten Daten verbleiben bei uns, bis Sie uns zur L&ouml;schung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck f&uuml;r die Datenspeicherung entf&auml;llt (z.&nbsp;B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen &ndash; insbesondere gesetzliche Aufbewahrungsfristen &ndash; bleiben unber&uuml;hrt.</p>
 
-Bei der Installation der App auf Ihrem Gerät können Sie entscheiden, ob sie von uns Push-Nachrichten erhalten möchten (Apple) bzw. werden Sie darüber informiert, dass unser Angebot auch Push-Nachrichten umfasst, die Sie ausschalten können (Android). Zur Aussendung der Push-Nachrichten erheben, speichern und verwenden wir folgende Daten: Parameter "pushkey" (Key von Apple oder Google über den dann der Push verschickt wird, Parameter "os" (zur Unterscheidung der Betriebssysteme Android oder iOS), Optionaler Parameter "cat" (Kategorien, für die sich der Nutzer registriert), Optionaler Parameter "theme" (Themen, für die sich der Nutzer registriert) Parameter "alert" (1 oder 0, ob der Nutzer Eilmeldungen möchte oder nicht)
+<p>Quelle: <a href="https://www.e-recht24.de">https://www.e-recht24.de</a></p>
 
-Die Daten sind erforderlich um eine gerätegenaue Zustellung der Pushnachrichten entsprechend der Pushkonfiguration in der App zu gewährleisten. Rechtsgrundlage für die Verarbeitung dieser Daten ist Ihre Einwilligung, Art. 6 Abs. 1 a) DS-GVO. Sie können die Pushnachrichtenfunktion jederzeit deaktivieren, indem Sie entweder in den Einstellungen der installierten App die Pushfunktion abschalten oder in den Einstellungen Ihres Smartphones unter „Apps“ die entsprechende App auswählen und dort die Benachrichtigungsfunktion wunschgemäß konfigurieren.
-
-## 8 Einsatz von Cookies
-Cookies sind kleine Textdateien, bzw. sonstige Speichervermerke, die Informationen auf Endgeräten speichern und Informationen aus den Endgeräten auslesen. Z.B. um den Login-Status in einem Nutzerkonto, einen Warenkorbinhalt in einem E-Shop, die aufgerufenen Inhalte oder verwendete Funktionen eines Onlineangebotes speichern. Cookies können ferner zu unterschiedlichen Zwecken eingesetzt werden, z.B. zu Zwecken der Funktionsfähigkeit, Sicherheit und Komfort von Onlineangeboten sowie der Erstellung von Analysen der Besucherströme.
-
-In der aktuellen Version dieser App werden keine Cookies eingesetzt.
-
-## 9 Newsletter und elektronische Benachrichtigungen
-Wir versenden E-Mails und weitere elektronische Benachrichtigungen (Pushnachrichten), nachfolgend "Newsletter“, nur mit der Einwilligung der Empfänger oder einer gesetzlichen Erlaubnis. Sofern im Rahmen einer Anmeldung zum Newsletter dessen Inhalte konkret umschrieben werden, sind sie für die Einwilligung der Nutzer maßgeblich. Im Übrigen enthalten unsere Newsletter Informationen zu unseren Leistungen und uns.
-
-Um sich zu unseren Newslettern anzumelden, reicht es grundsätzlich aus, wenn Sie Ihre E- Mail-Adresse angeben. Wir können Sie jedoch bitten, einen Namen, zwecks persönlicher Ansprache im Newsletter, oder weitere Angaben, sofern diese für die Zwecke des Newsletters erforderlich sind, zu tätigen.
-
-**Double-Opt-In-Verfahren:** Die Anmeldung zu unserem Newsletter erfolgt grundsätzlich in einem sogenannten Double-Opt-In-Verfahren. D.h., Sie erhalten nach der Anmeldung eine E-Mail, in der Sie um die Bestätigung Ihrer Anmeldung gebeten werden. Diese Bestätigung ist notwendig, damit sich niemand mit fremden E-Mail-Adressen anmelden kann. Die Anmeldungen zum Newsletter werden protokolliert, um den Anmeldeprozess entsprechend den rechtlichen Anforderungen nachweisen zu können. Hierzu gehört die Speicherung des Anmelde- und des Bestätigungszeitpunkts als auch der IP-Adresse. Ebenso werden die Änderungen Ihrer bei dem Versanddienstleister gespeicherten Daten protokolliert.
-
-**Löschung und Einschränkung der Verarbeitung:** Wir können die ausgetragenen E-Mail-Adressen bis zu drei Jahren auf Grundlage unserer berechtigten Interessen speichern, bevor wir sie löschen, um eine ehemals gegebene Einwilligung nachweisen zu können. Die Verarbeitung dieser Daten wird auf den Zweck einer möglichen Abwehr von Ansprüchen beschränkt. Ein individueller Löschungsantrag ist jederzeit möglich, sofern zugleich das ehemalige Bestehen einer Einwilligung bestätigt wird. Im Fall von Pflichten zur dauerhaften Beachtung von Widersprüchen behalten wir uns die Speicherung der E-Mail-Adresse alleine zu diesem Zweck in einer Sperrliste (sogenannte "Blocklist") vor.
-
-Die Protokollierung des Anmeldeverfahrens erfolgt auf Grundlage unserer berechtigten Interessen zu Zwecken des Nachweises seines ordnungsgemäßen Ablaufs. Soweit wir einen Dienstleister mit dem Versand von E-Mails beauftragen, erfolgt dies auf Grundlage unserer berechtigten Interessen an einem effizienten und sicheren Versandsystem.
-
-### Inhalte:
-
-Informationen zu uns, unseren Leistungen, Funktionen der App, Weiterentwicklungen / Updates und Angeboten.
-
-- **Verarbeitete Datenarten:** Bestandsdaten (z.B. Namen, Adressen); Kontaktdaten (z.B. E-Mail, Telefonnummern); Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP- Adressen).
-- **Betroffene Personen:**
-- **Zwecke der Verarbeitung:** Direktmarketing (z.B. per E-Mail oder postalisch).
-- **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO).
-- **Widerspruchsmöglichkeit (Opt-Out):** Sie können den Empfang unseres Newsletters jederzeit kündigen, d.h. Ihre Einwilligungen widerrufen, bzw. dem weiteren Empfang widersprechen. Einen Link zur Kündigung des Newsletters finden Sie entweder am Ende eines jeden Newsletters oder können sonst eine der oben angegebenen Kontaktmöglichkeiten, vorzugswürdig E-Mail, hierzu nutzen.
-
-## 10 Technische Dienstleister
-Für die Zurverfügungstellung und Funktion unserer App nutzen wir verschiedene Dienstleister.
-
-- **Expo**
-
-Wenn Entwickler Anwendungen (Apps) mit Expo erstellen, nutzen ihre Benutzer (Endbenutzer) letztendlich ihre Anwendungen und Websites. Wenn Endnutzer die von Expo erstellten Apps verwenden, werden nur sehr wenige Endnutzerdaten erfasst.
-
-Ein Beispiel: Wenn eine App mit dem verwalteten Workflow von Expo erstellt wird, fordert die App des Endbenutzers häufig neue App-Updates über HTTPS an, wenn die App auf dem Gerät des Endbenutzers geöffnet wird. Wenn ein neues Update verfügbar ist, senden wir das neue Update an den Endbenutzer. Diese Anfragen enthalten keine identifizierenden Informationen wie z. B. eindeutige Gerätekennungen.
-
-Es gibt einige Fälle, in denen wir Nutzerdaten an andere weitergeben können. Dazu gehören Situationen, in denen wir eine Einwilligung haben oder wenn wir Daten an einen Dienst senden, der Daten für uns verarbeitet (eine Liste der von uns genutzten Dienste finden Sie unter diesem Link: https://forums.expo.dev/t/expo-list-of-vendors/18511
-
-In allen Szenarien, die Endbenutzerdaten betreffen, ist Expo GDPR-, CCPA- und Privacy-Shield- konform.
-
-Wenn Sie mehr über die Datenverarbeitung von Expo erfahren wollen, empfehlen wir Ihnen die hauseigene Datenschutzerklärung des Unternehmens unter folgendem Link anzusehen: https://expo.dev/privacy
-
-- **Google Maps**
-- **Verarbeitete Datenarten:** Ihre IP-Adresse und die Standortdaten.
-- **Betroffene Personen:** Kommunikationspartner, Nutzer der App
-- **Zwecke der Verarbeitung:** Ermöglichung der Funktionen der App.
-- **Rechtsgrundlagen:** 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen).
-- **Speicherdauer:** abhängig von den gespeicherten Daten
-
-### Was ist Google Maps?
-
-Über die Embed-Funktion werden Karten von Google Maps in unsere App integriert, um Inhalte und Funktionen der App zu ermöglichen. Google Maps ist ein Dienst der Firma Google Inc. Für den europäischen Raum ist das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) für alle Google-Dienste verantwortlich. Mit Google Maps können wir Ihnen Standorte besser zeigen und damit unseren Service für Ihre Bedürfnisse anbieten. Durch die Verwendung von Google Maps werden Daten an Google übertragen und auf den Google-Servern gespeichert.
-
-### Warum verwenden wir Google Maps in unserer App?
-
-All unsere Bemühungen für diese App verfolgen das Ziel, Ihnen eine nützliche und sinnvolle Anwendung zu bieten. Durch die Einbindung von Google Maps können Sie die für Sie wichtigen Informationen mit frei wählbaren Standorten verbinden, erfassen und speichern. Somit ist Google Maps die Basis für den Nutzen unserer App, Ihnen die Sammlung, Kategorisierung und Speicherung von Daten und Informationen in Verbindung mit geographischen Daten zu ermöglichen.
-
-### Welche Daten werden von Google Maps gespeichert?
-
-Damit Google Maps ihren Dienst vollständig anbieten kann, muss das Unternehmen Daten von Ihnen aufnehmen und speichern. Dazu zählen unter anderem Ihre IP-Adresse und die Breiten- bzw. Längenkoordinaten Ihres Standortes. Wir können Sie darüber nur informieren, aber keinen Einfluss nehmen. Wir nutzen nur das Kartenmaterial von Google Maps, welches beim Start der App heruntergeladen und für einen gewissen Zeitraum lokal zwischengespeichert wird. Je nach Intensität der Nutzung erfolgt in gewissen Zeitabständen eine neue Anfrage.
-
-### Wie lange und wo werden die Daten gespeichert?
-
-Die Google-Server stehen in Rechenzentren auf der ganzen Welt. Die meisten Server befinden sich allerdings in Amerika. Aus diesem Grund werden Ihre Daten auch vermehrt in den USA gespeichert. Hier können Sie genau nachlesen wo sich die Google-Rechenzentren befinden: https://www.google.com/about/datacenters/locations/?hl=de
-
-Die Daten verteilt Google auf verschiedenen Datenträgern. Dadurch sind die Daten schneller abrufbar und werden vor etwaigen Manipulationsversuchen besser geschützt. Jedes Rechenzentrum hat auch spezielle Notfallprogramme. Wenn es zum Beispiel Probleme bei der Google-Hardware gibt oder eine Naturkatastrophe die Server lahm legt, bleiben die Daten ziemlich sicher trotzdem geschützt.
-
-Manche Daten speichert Google für einen festgelegten Zeitraum. Bei anderen Daten bietet Google lediglich die Möglichkeit, diese manuell zu löschen. Außerdem anonymisiert das Unternehmen auch Informationen (wie zum Beispiel Werbedaten) in Serverprotokollen, indem es einen Teil der IP-Adresse und Cookie-Informationen nach 9 bzw.18 Monaten löscht.
-
-### Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
-
-Mit der 2019 eingeführten automatischen Löschfunktion von Standort- und Aktivitätsdaten werden Informationen zur Standortbestimmung und Web-/App-Aktivität – abhängig von Ihrer Entscheidung – entweder 3 oder 18 Monate gespeichert und dann gelöscht. Zudem kann man diese Daten über das Google-Konto auch jederzeit manuell aus dem Verlauf löschen. Wenn Sie Ihre Standorterfassung vollständig verhindern wollen, müssen Sie im Google-Konto die Rubrik „Web- und App- Aktivität“ pausieren. Klicken Sie „Daten und Personalisierung“ und dann auf die Option „Aktivitätseinstellung“. Hier können Sie die Aktivitäten ein- oder ausschalten.
-
-In Ihrem Browser können Sie außerdem auch einzelne Cookies deaktivieren, löschen oder verwalten. Je nach dem welchen Browser Sie verwenden, funktioniert dies immer etwas anders. Unter dem Abschnitt „Cookies“ finden Sie die entsprechenden Links zu den jeweiligen Anleitungen der bekanntesten Browser.
-
-Falls Sie grundsätzlich keine Cookies haben wollen, können Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So können Sie bei jedem einzelnen Cookie entscheiden, ob Sie es erlauben oder nicht.
-
-### Rechtsgrundlage
-
-Wenn Sie eingewilligt haben, dass Google Maps eingesetzt werden darf, ist die Rechtsgrundlage der entsprechenden Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Google Maps vorkommen kann, dar.
-
-Von unserer Seite besteht zudem ein berechtigtes Interesse, Google Maps zu verwenden, um die Funktion und den Nutzen unserer App zu ermöglichen. Die dafür entsprechende Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen). Wir setzen Google Maps gleichwohl nur ein, soweit Sie eine Einwilligung erteilt haben. Sollte Sie der Einwilligung widersprechen stehen Ihnen allerdings der Nutzen und die Funktionen der App nicht zu Verfügung
-
-Google verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
-
-Als Grundlage der Datenverarbeitung bei Empfängern mit Sitz in Drittstaaten (außerhalb der Europäischen Union, Island, Liechtenstein, Norwegen, also insbesondere in den USA) oder einer Datenweitergabe dorthin verwendet Google sogenannte Standardvertragsklauseln (= Art. 46. Abs. 2 und 3 DSGVO). Standardvertragsklauseln (Standard Contractual Clauses – SCC) sind von der EU-Kommission bereitgestellte Mustervorlagen und sollen sicherstellen, dass Ihre Daten auch dann den europäischen Datenschutzstandards entsprechen, wenn diese in Drittländer (wie beispielsweise in die USA) überliefert und dort gespeichert werden. Durch diese Klauseln verpflichtet sich Google, bei der Verarbeitung Ihrer relevanten Daten, das europäische Datenschutzniveau einzuhalten, selbst wenn die Daten in den USA gespeichert, verarbeitet und verwaltet werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der EU-Kommission. Sie finden den Beschluss und die entsprechenden Standardvertragsklauseln u.a. hier: https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de
-
-Die Google Ads Datenverarbeitungsbedingungen (Google Ads Data Processing Terms), welche auf die Standardvertragsklauseln verweisen, finden Sie unter https://business.safety.google/intl/de/adsprocessorterms/.
-
-Wenn Sie mehr über die Datenverarbeitung von Google erfahren wollen, empfehlen wir Ihnen die hauseigene Datenschutzerklärung des Unternehmens unter https://policies.google.com/privacy?hl=de.
-
-- **Cloud-Dienste**
-- **Verarbeitete Datenarten:** Bestandsdaten (z.B. Namen, Adressen); Kontaktdaten (z.B. E-Mail, Telefonnummern); Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP- Adressen).
-- **Betroffene Personen:** Nutzer der App
-- **Zwecke der Verarbeitung:** Datenspeicherung aufgrund gesetzlicher Vorgaben, zur Kommunikation.
-- **Rechtsgrundlagen:** 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen).
-- **Speicherdauer:** meistens werden die Daten solange gespeichert, bis sie zur Erfüllung der Dienstleistung nicht mehr benötigt werden
-
-### Was sind Cloud-Dienste?
-
-Cloud-Dienste stellen für uns als Unternehmen Speicherplatz und Rechenleistung über das Internet zur Verfügung. Über das Internet können Daten an ein externes System übertragen, verarbeitet und gespeichert werden. Die Verwaltung dieser Daten übernimmt der entsprechende Cloud-Anbieter. Je nach Anforderung kann eine einzelne Person oder auch ein Unternehmen die Speicherplatzgröße oder Rechenleistung wählen.
-
-### Warum verwenden wir Cloud-Dienste?
-
-Wir nutzen Cloud-Dienste aus mehreren Gründen. Ein Cloud-Dienst bietet uns die Möglichkeit unsere Daten sicher zu speichern. Zudem haben wir von verschiedenen Orten und Geräten Zugriff auf die Daten und verfügen damit über mehr Flexibilität und erleichtern unsere Arbeitsprozesse. Ein Cloud-Speicher erspart uns auch Kosten, weil wir keine eigene Infrastruktur für Datenspeicherung und Datensicherheit errichten und verwalten müssen. Durch die zentrale Speicherung unserer Daten in der Cloud können wir auch unsere Anwendungsfelder erweitern und unsere Informationen deutlich besser verwalten.
-
-Wir als Unternehmen setzen Cloud-Dienste also in erster Linie für unsere eigenen Zwecke ein. Zum Beispiel nutzen wir die Dienste, um Dokumente, Dateien oder andere wichtige Informationen in der Cloud zu speichern. Dabei können allerdings auch personenbezogene Daten von Ihnen gespeichert werden. Dies ist beispielsweise dann der Fall, wenn Sie uns Ihre Kontaktdaten (etwa Name und E-Mail-Adresse) zu Verfügung stellen und wir unsere Kundendaten bei einem Cloud-Anbieter speichern. Folglich können Daten, die wir von Ihnen verarbeiten auch auf externen Servern abgelegt und verarbeitet werden.
-
-### Welche Daten werden durch Cloud-Dienste verarbeitet?
-
-Viele von uns in der Cloud gespeicherte Daten haben keinen Personenbezug, einige Daten zählen jedoch, nach Definition der DSGVO, zu personenbezogenen Daten. Häufig handelt es sich um Kundendaten wie Name, Adresse, IP-Adresse oder Telefonnummer oder um technische Gerätinformationen. Wie die Daten genau erhoben und gespeichert werden, hängt vom jeweiligen Dienst ab. Wir versuchen nur Dienste zu nutzen, die sehr vertrauenswürdig und professionell mit den Daten umgehen. Diese Cloud-Dienste arbeiten in einigen Fällen auch mit Drittanbietern zusammen, die unter Anweisung und in Übereinstimmung mit den Datenschutzrichtlinien und weiteren Sicherheitsmaßnahmen Daten verarbeiten können. Wir möchten an dieser Stelle nochmals betonen, dass sich alle bekannten Cloud-Dienste (wie Amazon Drive, Google Drive oder Microsoft Onedrive) das Recht einholen, Zugriff auf gespeicherte Inhalte zu haben, um ihre eigenen Services entsprechend anbieten und optimieren zu können.
-
-### Dauer der Datenverarbeitung
-
-Im Allgemeinen speichern Cloud-Dienste Daten, bis Sie oder wir die Datenspeicherung widerrufen bzw. die Daten wieder löschen. Generell werden personenbezogene Daten nur so lange gespeichert, wie es für die Bereitstellung der Dienstleistungen unbedingt notwendig ist. Ein endgültiges Datenlöschen aus der Cloud kann allerdings einige Monate dauern. Das ist der Fall, weil die Daten meist nicht nur auf einem Server gespeichert sind, sondern auf verschiedenen Servern aufgeteilt werden.
-
-### Widerspruchsrecht
-
-Sie haben auch jederzeit das Recht und die Möglichkeit Ihre Einwilligung zur Datenspeicherung in einer Cloud zu widerrufen. Falls Cookies verwendet werden, haben Sie auch hier ein Widerrufsrecht. Das funktioniert entweder über unser Cookie-Management-Tool oder über andere Opt-Out-Funktionen. Zum Bespiel können Sie auch die Datenerfassung durch Cookies verhindern, indem Sie in Ihrem Browser die Cookies verwalten, deaktivieren oder löschen. Wir empfehlen Ihnen auch unsere allgemeine Datenschutzerklärung über Cookies. Um zu erfahren, welche Daten von Ihnen genau gespeichert und verarbeitet werden, sollten Sie die Datenschutzerklärungen der jeweiligen Cloud-Anbieter durchlesen.
-
-### Rechtsgrundlage
-
-Wir setzen Cloud-Dienste hauptsächlich auf Grundlage unserer berechtigten Interessen (Art. 6 Abs. 1 lit. f DSGVO) an einem guten Sicherheits- und Speichersystem ein.
-
-Bestimmte Verarbeitungen, insbesondere der Einsatz von Cookies sowie die Nutzung von Speicherfunktionen bedürfen Ihrer Einwilligung. Wenn Sie eingewilligt haben, dass Daten von Ihnen bei Cloud-Diensten verarbeitet und gespeichert werden können, gilt diese Einwilligung als Rechtsgrundlage der Datenverarbeitung (Art. 6 Abs. 1 lit. a DSGVO).
-
-Um unsere App zu installieren haben Sie sich vorher bei einem der App-Store-betreiber registriert. Diese kommen aus sog. Drittländern und verarbeiten Daten, auch personalisierte Daten auf ihren Servern, die durchaus in Drittstatten stehen. Darauf haben wir keinerlei Einfluss.
-
-Sobald Sie unsere App erworben und installiert haben, wird diese auf Ihrem Endgerät installiert und von Ihnen genutzt. Es wird während der Nutzung keinerlei Verbindung zu einem Cloud-Dienst hergestellt. Dies gilt allerdings nicht für andere auf Ihrem Smartphone installierte Anwendungen, die Sie parallel zu unserer App verwenden. Diese können natürlich parallel mit einem Cloud-Dienst in Verbindung stehen. Es werden keinerlei Daten zwischen diesen Anwendungen ausgetauscht, sofern es der Nutzer unserer App nicht ausdrücklich mit der Teilen- oder Export-Funktion durchführt.
-
-Wir als Anbieter der App nutzen die Cloud-Dienste der DRACOON GmbH, www.dracoon.com . DRACOON aus Regensburg ist Marktführer im Bereich Enterprise File Services im deutschsprachigen Raum und hat es sich mit seiner Plattform zur Aufgabe gemacht, der Welt die Souveränität über ihre Daten zurückzugeben. Nach dem Prinzip „Privacy by Design“ verfügt DRACOON über eine integrierte clientseitige Verschlüsselung. Der Schlüssel zur Entschlüsselung bleibt immer beim Besitzer, so sind gespeicherte Daten maximal geschützt - weder DRACOON als Betreiber noch ein Administrator können darauf zugreifen. Das feingranulare Benutzer- und Rechtemanagement bietet individuelle Zugriffsrechte auf alle abgelegten Daten. Somit behalten autorisierte Nutzer die volle Kontrolle.
-
-Wenn Sie mehr über die Datenverarbeitung von Dracoon erfahren wollen, empfehlen wir Ihnen die hauseigene Datenschutzerklärung des Unternehmens unter folgendem Link: https://www.dracoon.com/de/datenschutz
-
-## 11 Änderung und Aktualisierung der Datenschutzerklärung
-Wir bitten Sie, sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z.B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.
-
-Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von Unternehmen und Organisationen angeben, bitten wir zu beachten, dass die Adressen sich über die Zeit ändern können und bitten die Angaben vor Kontaktaufnahme zu prüfen.
-
-## 12 Rechte der betroffenen Personen
-Ihnen stehen als Betroffene nach der DSGVO verschiedene Rechte zu, die sich insbesondere aus Art. 15 bis 21 DSGVO ergeben:
-
-- **Widerspruchsrecht: Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen.**
-- **Widerrufsrecht bei Einwilligungen:** Sie haben das Recht, erteilte Einwilligungen jederzeit zu widerrufen.
-- **Auskunftsrecht:** Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend den gesetzlichen Vorgaben.
-- **Recht auf Berichtigung:** Sie haben entsprechend den gesetzlichen Vorgaben das Recht, die Vervollständigung der Sie betreffenden Daten oder die Berichtigung der Sie betreffenden unrichtigen Daten zu verlangen.
-- **Recht auf Löschung und Einschränkung der Verarbeitung:** Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht, zu verlangen, dass Sie betreffende Daten unverzüglich gelöscht werden, bzw. alternativ nach Maßgabe der gesetzlichen Vorgaben eine Einschränkung der Verarbeitung der Daten zu verlangen.
-- **Recht auf Datenübertragbarkeit:** Sie haben das Recht, Sie betreffende Daten, die Sie uns bereitgestellt haben, nach Maßgabe der gesetzlichen Vorgaben in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder deren Übermittlung an einen anderen Verantwortlichen zu fordern.
-- **Beschwerde bei Aufsichtsbehörde:** Sie haben unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die Vorgaben der DSGVO verstößt.
-
-## 13 Begriffsdefinitionen
-In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutzerklärung verwendeten Begrifflichkeiten. Viele der Begriffe sind dem Gesetz entnommen und vor allem im Art. 4 DSGVO definiert. Die gesetzlichen Definitionen sind verbindlich. Die nachfolgenden Erläuterungen sollen dagegen vor allem dem Verständnis dienen. Die Begriffe sind alphabetisch sortiert.
-
-- **Personenbezogene Daten:** "Personenbezogene Daten“ sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden "betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
-- **Verantwortlicher:** Als "Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
-- **Verarbeitung:** "Verarbeitung" ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten, sei es das Erheben, das Auswerten, das Speichern, das Übermitteln oder das Löschen.
-- **Point of Interest (POI) / Eintrag:** sind punkthafte Geoobjekte, die für den Nutzer der App eine Bedeutung haben und in der Karte an bestimmten, freiwählbaren Geopunkten angelegt werden können. Jeder POI bzw. Eintrag hat eindeutige Koordinaten.
 
 ---
 [Impressum](Impressum.md) * 
